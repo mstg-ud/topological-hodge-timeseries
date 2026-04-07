@@ -1,4 +1,5 @@
 # Topological and Geometric Analysis of Time-Series Complexity Dynamics via Discrete Hodge Decomposition
+[![DOI](https://zenodo.org/badge/1203992682.svg)](https://doi.org/10.5281/zenodo.19456477)
 
 This repository contains the implementation and experimental scripts accompanying the paper:
 
