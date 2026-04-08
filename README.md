@@ -5,7 +5,7 @@ This repository contains the implementation and experimental scripts accompanyin
 
 > **Topological and Geometric Analysis of Time-Series Complexity Dynamics via Discrete Hodge Decomposition**  
 > Masatsugu Ueda, Independent Researcher, 2026  
-> Preprint: [link to be added after submission]
+> Preprint: https://www.preprints.org/manuscript/202604.0554/v1
 
 ---
 
@@ -156,7 +156,7 @@ If you use this code, please cite:
              Dynamics via Discrete Hodge Decomposition},
   author  = {Ueda, Masatsugu},
   year    = {2026},
-  note    = {Preprint. [URL to be added after submission]}
+  note    = {Preprint. https://www.preprints.org/manuscript/202604.0554/v1}
 }
 ```
 
