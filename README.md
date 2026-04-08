@@ -131,7 +131,7 @@ Key pipeline parameters (see Section 3.7 of the paper):
 | Window length $L$ | 64 samples | 250 samples |
 | Overlap rate $r$ | 0.875 | 0.875 |
 | Rips radius quantile $q$ | 0.05, 0.10 | 0.01 |
-| Triangle limit $|T|_{\max}$ | 8,000 | 8,000 |
+| Triangle limit $\|T\|_{\max}$ | 8,000 | 8,000 |
 
 The Rips radius quantile $q = 0.01$ for PPG (versus $q \in \{0.05, 0.10\}$ for synthetic signals) is required to keep the triangle count below 8,000; PPG signals produce a denser $W_1$ distance matrix that causes $|T|$ to grow much more rapidly with $\varepsilon$.
 
